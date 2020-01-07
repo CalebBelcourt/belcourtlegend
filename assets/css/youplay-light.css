@@ -21,7 +21,7 @@
 
   Main:         #ff774f (buttons/links hover)
   Back:         #fff (Content Background)
-  Back Images:  #c6c3d8 (back on images)
+  Back Images:  #ffff (back on images)
   Text:         #3c0732
   Muted Text:   rgba(60, 7, 50, 0.65)
 
@@ -3602,7 +3602,7 @@ fieldset[disabled] .btn {
     position: relative;
     display: block;
     overflow: hidden;
-    background: #c6c3d8;
+    background: #ffff;
     -webkit-transform: skew(-8deg);
         -ms-transform: skew(-8deg);
             transform: skew(-8deg);
@@ -4876,7 +4876,7 @@ textarea {
     width: 100%;
     min-height: 550px;
     overflow: hidden;
-    background: #c6c3d8;
+    background: #ffff;
 }
 
 @media screen and (min-width: 0\0) {
@@ -6625,7 +6625,7 @@ h2 + .youplay-news {
     margin-right: 3rem;
     overflow: hidden;
     cursor: pointer;
-    background: #c6c3d8;
+    background: #ffff;
     -webkit-transform: skew(-8deg);
         -ms-transform: skew(-8deg);
             transform: skew(-8deg);
@@ -7160,7 +7160,7 @@ button.mfp-close::before {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #c6c3d8;
+    background: #ffff;
     opacity: .4;
 }
 
