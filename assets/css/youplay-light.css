@@ -3614,7 +3614,6 @@ fieldset[disabled] .btn {
 
 .angled-img .img > img {
     width: 100%;
-    opacity: 0.5;
     -webkit-transition: .3s opacity ease;
     -o-transition: .3s opacity ease;
     transition: .3s opacity ease;
